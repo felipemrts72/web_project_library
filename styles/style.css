@@ -397,11 +397,10 @@
   text-decoration: none;
   display: flex;
   align-items: center;
-  column-gap: 16px;
+  column-gap: 10px;
 }
 
 .footer__social-icon {
-  margin-right: 10px;
   width: 16px;
   height: 16px;
 }
