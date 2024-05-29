@@ -354,11 +354,12 @@
   display: flex;
   flex-direction: column;
 }
-
+.footer__icon {
+  margin-right: auto;
+}
 .footer__logo {
   width: 58px;
   height: 80px;
-  margin-right: auto;
 }
 
 .footer__column_content_hours {
