@@ -339,13 +339,13 @@
   color: white;
   padding: 60px 80px;
   display: flex;
-  justify-content: space-around;
+  flex-direction: column;
 }
 
 .footer__columns {
   margin: 0 0 100px;
   display: flex;
-  flex-direction: row;
+  justify-content: space-between;
 }
 
 .footer__column_content_hours {
